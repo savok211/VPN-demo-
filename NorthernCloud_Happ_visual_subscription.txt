@@ -1,0 +1,28 @@
+#profile-title: NorthernCloud Demo
+#announce: VISUAL DEMO — NOT A REAL VPN SUBSCRIPTION
+#subscriptions-sort-type: alphabet
+#profile-update-interval: 24
+vless://0fc6b766-1c96-528b-ad7d-ffef157fbfed@nl-demo.invalid:443?type=tcp&security=tls&sni=nl-demo.invalid#🇳🇱 NL — Amsterdam
+vless://033c23e9-679c-5e9d-b43a-a47102fd6a67@de-demo.invalid:443?type=tcp&security=tls&sni=de-demo.invalid#🇩🇪 DE — Frankfurt
+vless://460f4660-520b-500d-bb99-b375a9381cbb@fi-demo.invalid:443?type=tcp&security=tls&sni=fi-demo.invalid#🇫🇮 FI — Helsinki
+vless://7795811f-d890-573f-8a5d-54ecc0262cfd@us-demo.invalid:443?type=tcp&security=tls&sni=us-demo.invalid#🇺🇸 US — New York
+vless://70690235-043f-580d-812a-5ed882e9aa9a@uk-demo.invalid:443?type=tcp&security=tls&sni=uk-demo.invalid#🇬🇧 UK — London
+vless://fbe5a487-64fb-5a81-8883-624c931e65ee@fr-demo.invalid:443?type=tcp&security=tls&sni=fr-demo.invalid#🇫🇷 FR — Paris
+vless://1b666ae3-f6a6-5ce1-a0cd-7383e3d5985c@tr-demo.invalid:443?type=tcp&security=tls&sni=tr-demo.invalid#🇹🇷 TR — Istanbul
+vless://90f59184-d309-5b7b-9712-e8b774052d30@jp-demo.invalid:443?type=tcp&security=tls&sni=jp-demo.invalid#🇯🇵 JP — Tokyo
+vless://157a7fde-f59d-57f7-a12d-5cbbba6fe739@sg-demo.invalid:443?type=tcp&security=tls&sni=sg-demo.invalid#🇸🇬 SG — Singapore
+vless://7075e491-f93c-5a9c-893b-b6ceb9b53712@hk-demo.invalid:443?type=tcp&security=tls&sni=hk-demo.invalid#🇭🇰 HK — Hong Kong
+vless://46266344-af18-56c2-bf80-30020456242a@ca-demo.invalid:443?type=tcp&security=tls&sni=ca-demo.invalid#🇨🇦 CA — Toronto
+vless://a125feec-f508-5ed5-8f8a-f96c3644d834@au-demo.invalid:443?type=tcp&security=tls&sni=au-demo.invalid#🇦🇺 AU — Sydney
+vless://c2cb6f6c-187e-59d2-abf2-b6eae58c9e96@se-demo.invalid:443?type=tcp&security=tls&sni=se-demo.invalid#🇸🇪 SE — Stockholm
+vless://96fc335e-0fa0-5d70-af27-a184277b30b5@no-demo.invalid:443?type=tcp&security=tls&sni=no-demo.invalid#🇳🇴 NO — Oslo
+vless://8cc053d7-5b7d-5f64-b098-b0e342041fea@ch-demo.invalid:443?type=tcp&security=tls&sni=ch-demo.invalid#🇨🇭 CH — Zurich
+vless://a8cfdb9e-bc97-5476-8de1-09dec247cf54@it-demo.invalid:443?type=tcp&security=tls&sni=it-demo.invalid#🇮🇹 IT — Milan
+vless://0663123b-8f9b-5a1d-a168-423d1c0a5075@es-demo.invalid:443?type=tcp&security=tls&sni=es-demo.invalid#🇪🇸 ES — Madrid
+vless://0b30f46e-b9bc-5d99-909a-5271b74be65b@pl-demo.invalid:443?type=tcp&security=tls&sni=pl-demo.invalid#🇵🇱 PL — Warsaw
+vless://9d73ce68-3b35-5864-b118-9ea2ad3f0aa0@cz-demo.invalid:443?type=tcp&security=tls&sni=cz-demo.invalid#🇨🇿 CZ — Prague
+vless://dda34eae-2410-54f1-a834-042d41aa5d31@at-demo.invalid:443?type=tcp&security=tls&sni=at-demo.invalid#🇦🇹 AT — Vienna
+vless://071cfcd1-ca22-5818-a788-1a183e90e905@be-demo.invalid:443?type=tcp&security=tls&sni=be-demo.invalid#🇧🇪 BE — Brussels
+vless://fbb57ea6-39af-5e08-af8c-7a0979dc1f27@dk-demo.invalid:443?type=tcp&security=tls&sni=dk-demo.invalid#🇩🇰 DK — Copenhagen
+vless://00d7e048-c488-576a-9a55-20cbae62176c@ie-demo.invalid:443?type=tcp&security=tls&sni=ie-demo.invalid#🇮🇪 IE — Dublin
+vless://f638e407-f131-5cfe-9cb2-5813dda1fe8b@pt-demo.invalid:443?type=tcp&security=tls&sni=pt-demo.invalid#🇵🇹 PT — Lisbon
